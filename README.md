@@ -5,7 +5,7 @@ Software Engineer and Solutions Architect with 10 years of experience, specializ
 
 ### 💬 Ask me about
 - Backend Software Engineering (JVM Languages, Relational Databases, Enterprise)
-- IT Sales, Customer Success, Customer Onboarding
+- IT Sales, Customer Success, Customer Onboarding, Partner Relations
 - Technical Conferences and Meetups organization
 
 ### ⭐ Current project
