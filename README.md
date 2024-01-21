@@ -1,4 +1,8 @@
-### Hi, I'm Margarita ✨
+<h1 align="center">Hi, I'm Rita ✨</h1>
+<h3 align="center">A Software Engineer and Solutions Architect</h3>
+
+## 🔭 Current project
+- Synthesized
 
 <!--
 **kurumar/kurumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
