@@ -5,11 +5,11 @@ Software Engineer and Solutions Architect with 10 years of experience, specializ
 
 ### 💬 Ask me about
 - Backend Software Engineering (JVM Languages, Relational Databases, Enterprise)
-- IT Sales, Customer Success, Customer Onboarding, Partner Relations
+- IT-Sales, Customer Success, Customer Onboarding, Partner Relations
 - Technical Conferences and Meetups organization
 
 ### ⭐ Current project
- - At [Synthesized](https://synthesized.io/) I help our customers onboard and integrate the Synthesized platform to generate high-quality data for Machine Learning, Data Science, Software Development, and Testing.
+ - At [Synthesized](https://synthesized.io/) I help our potential customers and customers to onboard and integrate the Synthesized platform to generate high-quality data for Machine Learning, Data Science, Software Development, and Testing.
 
 ### 💫 How to reach me
  - [LinkedIn](https://www.linkedin.com/in/kurumar/)
