@@ -4,3 +4,6 @@ I'm a Solutions Architect with 10+ years of experience in software engineering, 
 
 How to reach me: [LinkedIn](https://www.linkedin.com/in/kurumar/)
 
+![looknormal](looknormal.gif)
+
+
