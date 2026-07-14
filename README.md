@@ -1,14 +1,14 @@
 ## Hey 
 
-I'm Margarita, Solutions Engineer with over 12 years of experience in software, network, and cybersecurity.
-
-Right now I serve as a Customer Solutions Engineer at Cloudflare ⛅
+I'm Margarita, right now I serve as a Customer Engineer at Cloudflare ⛅
 
 How to reach me: [LinkedIn](https://www.linkedin.com/in/kurumar/)
 
-https://dash.kurumar.uk/ daily dashboard to navigate London and the fast-moving tech industry (and memes from reddit).
+Some of my personal projects:
 
-https://poetry.kurumar.uk/ app to learn English through poetry.
+https://kurumar.com/ daily dashboard to monitor signals from fast-moving tech industry
+
+https://brain.kurumar.com/ application to monitor cognitive sharpness with sceintific proven tests
   
 Ma cat Balu
 
