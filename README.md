@@ -6,9 +6,9 @@ You can reach me on [LinkedIn](https://www.linkedin.com/in/kurumar/).
 
 #### Personal projects
 
-- [kurumar.com](https://kurumar.com/) — monitor signals from the fast-moving tech industry
-- [brain.kurumar.com](https://brain.kurumar.com/) — track cognitive sharpness using scientifically validated tests
-- [poetry.kurumar.com](https://poetry.kurumar.com/) — learn words through the beauty of verse
+- [kurumar.com](https://kurumar.com/) — monitor signals from the fast-moving tech industry (Cloudflare Workers, D1, Browser Run, hourly cron)
+- [brain.kurumar.com](https://brain.kurumar.com/) — track cognitive sharpness using research-based tests (Cloudflare Workers, D1, Workers AI with llama-3.3)
+- [poetry.kurumar.com](https://poetry.kurumar.com/) — learn words through the beauty of verse (Cloudflare Workers, Workers AI with mistral-small and gemma-4)
 
 #### My cat, Balu
 
