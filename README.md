@@ -6,8 +6,9 @@ You can reach me on [LinkedIn](https://www.linkedin.com/in/kurumar/).
 
 #### Personal projects
 
-- [kurumar.com](https://kurumar.com/) — a daily dashboard for monitoring signals from the fast-moving tech industry
-- [brain.kurumar.com](https://brain.kurumar.com/) — an application for tracking cognitive sharpness using scientifically validated tests
+- [kurumar.com](https://kurumar.com/) — monitor signals from the fast-moving tech industry
+- [brain.kurumar.com](https://brain.kurumar.com/) — track cognitive sharpness using scientifically validated tests
+- [poetry.kurumar.com](https://poetry.kurumar.com/) — learn words through the beauty of verse
 
 #### My cat, Balu
 
