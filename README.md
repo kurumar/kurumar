@@ -7,7 +7,7 @@ You can reach me on [LinkedIn](https://www.linkedin.com/in/kurumar/).
 #### Personal projects
 
 - [kurumar.com](https://kurumar.com/) monitors signals from the fast-moving tech industry (Cloudflare Workers, D1, Browser Run, hourly cron)
-- [health.kurumar.com/](https://health.kurumar.com/) monitors longevity and health research, with daily and seasonal recommendations (work in progress)
+- [health.kurumar.com](https://health.kurumar.com/) monitors longevity and health research, with daily and seasonal recommendations (work in progress)
 - [brain.kurumar.com](https://brain.kurumar.com/) tracks cognitive sharpness using research-based tests (Cloudflare Workers, D1, Workers AI with llama-3.3)
 - [poetry.kurumar.com](https://poetry.kurumar.com/) teaches words through the beauty of verse (Cloudflare Workers, Workers AI with mistral, gemma-4)
 
