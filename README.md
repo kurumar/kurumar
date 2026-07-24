@@ -9,6 +9,7 @@ You can reach me on [LinkedIn](https://www.linkedin.com/in/kurumar/).
 - [kurumar.com](https://kurumar.com/) monitors signals from the fast-moving tech industry (Cloudflare Workers, D1, Browser Run, hourly cron)
 - [brain.kurumar.com](https://brain.kurumar.com/) tracks cognitive sharpness using research-based tests (Cloudflare Workers, D1, Workers AI with llama-3.3)
 - [poetry.kurumar.com](https://poetry.kurumar.com/) teaches words through the beauty of verse (Cloudflare Workers, Workers AI with mistral, gemma-4)
+- [ulysses.kurumar.com](https://ulysses.kurumar.com/) – "Ulysses is a fat book of more than 260.000 words; it is a rich book with a vocabulary of about 30.000 words." – Vladimir Nabokov
 
 #### My cat, Balu
 
