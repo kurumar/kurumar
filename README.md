@@ -12,7 +12,7 @@ You can reach me on [LinkedIn](https://www.linkedin.com/in/kurumar/).
 English is not my native language, but I love literature and poetry and want to experience them in the original, so I build projects that help me enrich my vocabulary:
 
 - [poetry.kurumar.com](https://poetry.kurumar.com/) teaches words through the beauty of verse (Cloudflare Workers, Workers AI with mistral, gemma-4)
-- [ulysses.kurumar.com](https://ulysses.kurumar.com/) helps readers explore the extraordinary vocabulary of James Joyce's Ulysses (Cloudflare Workers, the Project Gutenberg eBook of Ulysses, translation with gpt-4.1-mini)
+- [ulysses.kurumar.com](https://ulysses.kurumar.com/) helps readers explore the extraordinary vocabulary of James Joyce's Ulysses (Cloudflare Workers,translation with gpt-4.1-mini)
 
 #### My cat, Balu
 
