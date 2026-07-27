@@ -16,4 +16,4 @@ English is not my native language, but I love literature and poetry and want to 
 
 #### My cat, Balu
 
-<img width="250" alt="Balu the ca" src="https://github.com/user-attachments/assets/8093a1c0-f14c-4d59-957e-7c6d0477e0c5" />
+<img width="150" alt="Balu the ca" src="https://github.com/user-attachments/assets/8093a1c0-f14c-4d59-957e-7c6d0477e0c5" />
