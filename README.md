@@ -6,7 +6,7 @@ You can reach me on [LinkedIn](https://www.linkedin.com/in/kurumar/).
 
 #### Personal projects
 
-- [kurumar.com](https://kurumar.com/) dashboard to monitor signals from the fast-moving tech industry (Cloudflare Workers, D1, Browser Run, hourly cron)
+- [kurumar.com](https://kurumar.com/) dashboard to monitor signals from the tech industry (Cloudflare Workers, D1, Browser Run, hourly cron)
 - [health.kurumar.com](https://health.kurumar.com/) dashboard to monitor signals from health researches (Cloudflare Workers, D1, Browser Run, hourly cron)
 - [brain.kurumar.com](https://brain.kurumar.com/) tracks cognitive sharpness using research-based tests (Cloudflare Workers, D1, Workers AI with llama-3.3)
 - [plants.kurumar.com](https://plants.kurumar.com/) 30 plants per week tracker, progress is saved only in the browser (Cloudflare Workers)
