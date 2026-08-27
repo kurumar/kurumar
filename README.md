@@ -16,6 +16,10 @@ English is not my first language, but I love to explore literature and poetry in
 - [ulysses.kurumar.com](https://ulysses.kurumar.com/) vocabulary of James Joyce's Ulysses (Cloudflare Workers, gpt-4.1-mini translation)
 - [hamlet.kurumar.com](https://hamlet.kurumar.com/) vocabulary of Shakespeare’s Hamlet (Cloudflare Workers, gpt-4.1-mini translation)
 
+Latin:
+
+- [pu.kurumar.com](https://pu.kurumar.com/) read Winnie-the-pooh in Latin. Why not?!
+
 #### My cat, Balu
 
 <img width="150" alt="Balu the ca" src="https://github.com/user-attachments/assets/8093a1c0-f14c-4d59-957e-7c6d0477e0c5" />
