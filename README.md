@@ -1,6 +1,6 @@
 ## Hey
 
-I'm Margarita, right now I serve as a Senior Customer Engineer at Cloudflare ⛅
+I'm Margarita. Right now I serve as a Senior Customer Engineer at Cloudflare ⛅
 
 You can reach me on [LinkedIn](https://www.linkedin.com/in/kurumar/).
 
