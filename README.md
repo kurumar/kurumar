@@ -22,6 +22,6 @@ Latin:
 
 #### My cat, Balu
 
-<img width="150" alt="Balu the ca" src="https://github.com/user-attachments/assets/8093a1c0-f14c-4d59-957e-7c6d0477e0c5" />
-
 - [piano.kurumar.com](https://piano.kurumar.com/) a web app for any cat to play modern jazz, just open on the phone and give it to your cat.
+
+<img width="150" alt="Balu the ca" src="https://github.com/user-attachments/assets/8093a1c0-f14c-4d59-957e-7c6d0477e0c5" />
