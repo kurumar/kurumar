@@ -19,7 +19,7 @@ Latin:
 
 - [pu.kurumar.com](https://pu.kurumar.com/) read Winnie-the-pooh in Latin. What?!Yes!!
 
-Photograpy:
+Photography:
 
 - [zine.kurumar.com](https://zine.kurumar.com/) some of my film photography. 
 
