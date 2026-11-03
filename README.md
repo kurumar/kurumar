@@ -24,7 +24,7 @@ Photography:
 - [zine.kurumar.com](https://zine.kurumar.com/) some of my film photography. 
 
 
-My cat, Balu:
+#### My cat, Balu:
 
 <img width="150" alt="Balu the ca" src="https://github.com/user-attachments/assets/8093a1c0-f14c-4d59-957e-7c6d0477e0c5" />
 
