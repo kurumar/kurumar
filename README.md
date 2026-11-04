@@ -7,7 +7,6 @@ I'm Margarita. Right now I serve as a Senior Customer Engineer at Cloudflare ⛅
 - [kurumar.com](https://kurumar.com/) dashboard to monitor signals from tech industry (Cloudflare Workers, D1, Browser Run, hourly cron)
 - [health.kurumar.com](https://health.kurumar.com/) dashboard to monitor signals from health researches (Cloudflare Workers, D1, Browser Run, hourly cron)
 - [brain.kurumar.com](https://brain.kurumar.com/) app to track cognitive abilities using research-based tests (Cloudflare Workers, D1)
-- [plants.kurumar.com](https://plants.kurumar.com/) 30 plants per week tracker, progress is saved only in the browser (Cloudflare Workers)
 - [piano.kurumar.com](https://piano.kurumar.com/) app for any cat to play modern jazz. Open on the phone and give it to your cat.
 
 English:
