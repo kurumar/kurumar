@@ -1,6 +1,6 @@
 ## Hey
 
-I'm Margarita. Right now I serve as a Senior Customer Engineer at Cloudflare ⛅ 
+I'm Margarita, right now I serve as a Senior Customer Engineer at Cloudflare ⛅ 
 
 #### Personal projects
 
@@ -9,12 +9,12 @@ I'm Margarita. Right now I serve as a Senior Customer Engineer at Cloudflare ⛅
 - [brain.kurumar.com](https://brain.kurumar.com/) app to track cognitive abilities using research-based tests (Cloudflare Workers, D1)
 - [piano.kurumar.com](https://piano.kurumar.com/) app for any cat to play modern jazz. Open on the phone and give it to your cat.
 
-English:
+#### English:
 
 - [ulysses.kurumar.com](https://ulysses.kurumar.com/) vocabulary of James Joyce's Ulysses (Cloudflare Workers, gpt-4.1-mini translation)
 - [hamlet.kurumar.com](https://hamlet.kurumar.com/) vocabulary of Shakespeare’s Hamlet (Cloudflare Workers, gpt-4.1-mini translation)
 
-Latin:
+#### Latin:
 
 - [pu.kurumar.com](https://pu.kurumar.com/) read Winnie-the-pooh in Latin. What?!Yes!!
 
