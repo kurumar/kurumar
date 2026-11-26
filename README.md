@@ -27,7 +27,7 @@ My plan for the post-apocalyptic AI era is to live far away from big cities, mak
 #### Photography:
 
 - [zine.kurumar.com](https://zine.kurumar.com/) some of my film photography.
-- [va.kurumar.com](https://va.kurumar.com/) site to browse the V&A archive and uses their API. Do not compare it to my lame photography.
+- [va.kurumar.com](https://va.kurumar.com/) site to browse the V&A archive (115k photos), it uses their API. Do not compare it to my lame photography.
 
 
 #### My cat, Balu:
