@@ -2,6 +2,12 @@
 
 I'm Margarita, right now I serve as a Senior Customer Engineer at Cloudflare ⛅ 
 
+I wanted to host an about me page on my domain, but decided that a GitHub README file is good enough to share my pet projects and other interests. I love engineering, I like to think and solve problems. If I do not have a problem, I make problems in my life, so you'd better give me a problem.
+
+My favorite books are Henry Miller Tropic of Cancer, everything by Dostoevsky, and Nabokov. I love to read fiction, especially Russian classics. In recent years, I've started to enjoy poetry so much that I wanna find some real poets and give them all my money. Please send me your poetry if you need money. As for music, I enjoy jazz and feel like a 100yo grandma, so let it be. I also like walks and hikes, especially in the very early mornings.
+
+My plan for the post-apocalyptic AI era is to live far away from big cities, make robots, have two goats and a cat.
+
 #### Personal projects
 
 - [kurumar.com](https://kurumar.com/) dashboard to monitor signals from tech industry (Cloudflare Workers, D1, Browser Run, hourly cron)
